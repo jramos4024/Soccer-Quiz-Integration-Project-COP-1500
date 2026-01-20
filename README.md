@@ -1,4 +1,4 @@
-Name: Soccer Quiz Integration Project
+# Soccer Quiz Integration Project
 
 Author: Joe Ramos
 
